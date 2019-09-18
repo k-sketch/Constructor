@@ -1,0 +1,20 @@
+# depslib dependency file v1.0
+1568817827 source:c:\users\alumno-e\desktop\constructor\main.cpp
+	<iostream>
+	"Punto.h"
+	"Vector.h"
+
+1568815227 c:\users\alumno-e\desktop\constructor\include\punto.h
+
+1568817196 source:c:\users\alumno-e\desktop\constructor\src\punto.cpp
+	"Punto.h"
+	<iostream>
+
+1568817691 source:c:\users\alumno-e\desktop\constructor\src\vector.cpp
+	"Vector.h"
+	<cmath>
+	<iostream>
+
+1568818068 c:\users\alumno-e\desktop\constructor\include\vector.h
+	"Punto.h"
+
